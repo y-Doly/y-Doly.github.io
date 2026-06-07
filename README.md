@@ -1,7 +1,7 @@
 # Personal Intro Page
 
 This repository contains a simple personal introduction page built using HTML and CSS.
-I later improved this project with a more professional design to reflect my learning progress.
+I will later improve this project with more professional design to reflect my learning progress.
 
 # Project Overview:
 The page introduces who I am, my current academic background, and the core web technologies I am learning.
